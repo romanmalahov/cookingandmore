@@ -109,7 +109,7 @@ include (TEMPLATEPATH . '/searchform.php'); ?></div>
 
 title="Links">LINKS</a>&nbsp; | &nbsp;<a 
 
-href="http://www.cookingandmore.com/contact-me-2/" title="Contact 
+href="http://107.170.11.162/contact-me-2/" title="Contact 
 
 Me">CONTACT ME</a>&nbsp; | &nbsp;<a href="<?php echo 
 
