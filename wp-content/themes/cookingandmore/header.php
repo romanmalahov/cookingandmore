@@ -92,7 +92,8 @@ Story</a><img src="<?php bloginfo('template_directory');
 get_permalink(13); ?>" title="Tina in Print">Tina in Print</a>
 <img src="<?php bloginfo('template_directory'); 
 
-?>/images/starburst.gif" alt="separator" /><a href="/blog" title="Blog">Blog</a>
+?>/images/starburst.gif" alt="separator" /><a href="<?php echo 
+get_permalink(781); ?>" title="Blog">Blog</a>
 
 
 <img src="<?php bloginfo('template_directory'); 
