@@ -16,16 +16,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'coo1125007465623');
+define('DB_NAME', 'cookingandmore');
 
 /** MySQL database username */
-define('DB_USER', 'coo1125007465623');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '779a33e44cfb');
+define('DB_PASSWORD', 'xN6E7RU6IV');
 
 /** MySQL hostname */
-define('DB_HOST', 'coo1125007465623.db.7696612.hostedresource.com');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
